@@ -27,6 +27,9 @@ Este proyecto permite controlar LEDs conectados a un Arduino mediante una interf
 ## Código de Java
 [Enlace al código Java](/java/SerialCommunication.java)
 
+## Libreria jssc 
+[https://github.com/java-native/jssc]
+
 ## Contribuciones
 ¡Contribuciones bienvenidas! Abre un problema o envía una solicitud de extracción.
 
