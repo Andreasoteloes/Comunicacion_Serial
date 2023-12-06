@@ -25,4 +25,10 @@ Este proyecto permite controlar LEDs conectados a un Arduino mediante una interf
 [Enlace al código de Arduino](/arduino/led_control.ino)
 
 ## Código de Java
-[Enlace al código Java](/java/SerialCommunic
+[Enlace al código Java](/java/SerialCommunication.java)
+
+## Contribuciones
+¡Contribuciones bienvenidas! Abre un problema o envía una solicitud de extracción.
+
+## Licencia
+Este proyecto está bajo la Licencia MIT.
