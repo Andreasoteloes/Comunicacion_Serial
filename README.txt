@@ -8,8 +8,8 @@ Este proyecto permite controlar LEDs conectados a un Arduino mediante una interf
 2. Ejecuta la aplicación Java para controlar los LEDs.
 
 ## Estructura del Proyecto
-- `/arduino`: Contiene el código de Arduino.
-- `/java`: Contiene el código Java.
+- `/Proyecto_arduino/Proyecto_arduino.ino`: Contiene el código de Arduino.
+- `Comunicacion_Serial/SerialCommunication/src/SerialCommunication.java`: Contiene el código Java.
 
 ## Requisitos
 - Arduino IDE
@@ -22,10 +22,10 @@ Este proyecto permite controlar LEDs conectados a un Arduino mediante una interf
 - LED 4: Pin 5
 
 ## Código de Arduino
-[Enlace al código de Arduino](/arduino/led_control.ino)
+[https://github.com/Andreasoteloes/Comunicacion_Serial/blob/main/Proyecto_arduino/Proyecto_arduino.ino]
 
 ## Código de Java
-[Enlace al código Java](/java/SerialCommunication.java)
+[https://github.com/Andreasoteloes/Comunicacion_Serial/blob/main/SerialCommunication/src/SerialCommunication.java)
 
 ## Libreria jssc 
 [https://github.com/java-native/jssc]
